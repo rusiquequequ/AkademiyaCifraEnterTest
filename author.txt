@@ -1,2 +1,2 @@
-Kamalov Ruslan
+Kamalov_Ruslan
 python
